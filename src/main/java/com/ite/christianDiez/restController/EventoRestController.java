@@ -1,4 +1,4 @@
-package com.ite.christianDiez;
+package com.ite.christianDiez.restController;
 
 import java.util.List;
 
